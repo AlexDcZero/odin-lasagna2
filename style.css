@@ -2,8 +2,8 @@
     background-color: #fff70080;
 }
 
-#mi_parrafo{
-    background-color:azure;
+.mi_parrafo{
+    background-color:rgb(246, 255, 240);
     font-family:'Courier New', Courier, monospace;
     font-size: 22px;
     font-weight: 500;
@@ -17,5 +17,5 @@
 
 img{
     height: auto;
-    width: 500px;
+    width: 300px;
 }
